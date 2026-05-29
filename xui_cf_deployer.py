@@ -542,7 +542,7 @@ def restart_xui() -> None:
 
 
 def build_links(user_uuid: str, domain: str, routes: List[Dict[str, Any]]) -> Dict[str, str]:
-    base_url = f"https://yx-auto.pages.dev/{user_uuid}/sub"
+    base_url = f"https://cc.2026229.xyz/9c9035d1-3ce9-4b9f-adee-0a5b52360af4/sub"
     common = {
         "domain": domain,
         "epd": "yes",
